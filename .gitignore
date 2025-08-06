@@ -16,6 +16,7 @@ cmake-build*/
 *.vcxproj
 *.vcxproj.filters
 *.vcxproj.user
+*.sln
 
 
 # User-specific files (MonoDevelop/Xamarin Studio)
