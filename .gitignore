@@ -3,12 +3,20 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
+#Cmake files
+build*/
+cmake-build*/
+
 # User-specific files
 *.rsuser
 *.suo
 *.user
 *.userosscache
 *.sln.docstates
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
